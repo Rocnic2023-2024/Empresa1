@@ -13,30 +13,17 @@ body{
     font-size: 16px;
     font-family: 'Krub', sans-serif;
 }
-.titulo{
-    font-size: 3rem;
-    text-align: center;
-    background-color: #FCFCFC;
-    
-}
-.titulo span{
-    font-size: 2rem;
-}
-.nav_bg{
+
+.container-fluid{
+    height: 25rm;
     background-color: #B00000;
-   
-}
-.contenedor{
-    width: 120rem;
-    margin: 0 auto;
-}
-.NVC  {
-   
-   display: flex;
-   flex-direction: row;
-   justify-content: space-between;
+    color: #FFFFFF;
+    margin-top: auto;
 }
 
+.col1{
+    background: lightgray;
+}
 .NVC a {
    
     color: #FCFCFC;
@@ -45,10 +32,3 @@ body{
     font-weight: bold;
     padding: 1rem;
 }
-
-.NVC a:hover {
-   
- background-color:#b6aeae ;
- color: black;
-}
-
