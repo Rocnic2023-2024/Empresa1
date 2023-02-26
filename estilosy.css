@@ -1,0 +1,60 @@
+html{
+    text-align: center;
+    
+}
+body {
+	font-family: "Arial";
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+	font-size: 62.5%;
+}
+
+#titulo {
+	background-color: #B00000;
+	color: white;
+	text-align: center;
+	margin-bottom: auto;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+
+}
+
+.subtitulo {
+	background-color: #B00000;
+	color: white;
+}
+
+th {
+	text-align: center;
+	border: solid 3px white;
+	background-color: #B00000;
+
+}
+
+td {
+	text-align: left;
+	border: solid 4px white;
+	background-color: #5B5454;
+}
+
+#pie {
+	margin: 0%;
+	;
+	height: 100px;
+	background: #802f2f;
+}
+
+
+
+
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
