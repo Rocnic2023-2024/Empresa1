@@ -11,7 +11,7 @@ body {
     background-color: #B00000;
     color: white;
     padding: 20px;
-    text-align: left;
+    text-align: center;
   }
 
   header h1 {
@@ -50,4 +50,14 @@ body {
     h2{
         text-align: center;
     }
-    p<
+    #rocnic{
+      text-align: center;
+      background-image: url(rocnic.jpg);
+      height: 100px;
+      background-size: 100px 100px;
+      background-repeat: no-repeat;
+    }
+    li{
+      text-align: justify;
+   
+    }
