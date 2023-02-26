@@ -1,0 +1,110 @@
+nav{
+	line-height: 23px;
+	background: #9B0000;
+	height: 10%;
+	width: 100%;
+}
+
+body{
+	font-family: Arial, Serifa;
+	background-color:rgb(231,231,231);
+}
+
+#Caja{
+	width: 85%;
+	margin: 0px auto;
+	background-color:rgb(255,255,255);
+}
+
+#Cabecera{
+	width: 100%;
+	height: 20%;
+	background: lightgray;
+	text-align: center;
+}
+
+#est1text{
+	background: #9B0000;
+	width: 100%;
+	height: 5%;
+	text-align: center;
+	line-height: 240%;
+	font-family: 'krub', sans-serif;
+}
+#est1{
+	width: 100%-50px;
+	text-align: center;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+}
+
+#est2text{
+	background: #9B0000;
+	width: 100%;
+	height: 5%;
+	text-align: center;
+	line-height: 240%;
+	font-family: 'krub', sans-serif;
+}
+#est2{
+	width: 100%-50px;
+	text-align: center;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+}
+
+#est3text{
+	background: #9B0000;
+	width: 100%;
+	height: 5%;
+	text-align: center;
+	line-height: 240%;
+	font-family: 'krub', sans-serif;
+}
+#est3{
+	width: 100%-50px;
+	text-align: center;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+}
+
+#est4text{
+	background: #9B0000;
+	width: 100%;
+	height: 5%;
+	text-align: center;
+	line-height: 240%;
+	font-family: 'krub', sans-serif;
+}
+#est4{
+	width: 100%-50px;
+	text-align: center;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+}
+
+#est5text{
+	background: #9B0000;
+	width: 100%;
+	height: 5%;
+	text-align: center;
+	line-height: 240%;
+	font-family: 'krub', sans-serif;
+}
+#est5{
+	width: 100%-50px;
+	text-align: center;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+}
+

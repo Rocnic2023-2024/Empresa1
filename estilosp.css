@@ -1,8 +1,14 @@
 nav{
+	font-family: 'krub', sans-serif;
 	background: #9B0000;
-	border: 1px solid black;
 	height: 10%;
 	width: 100%;
+}
+nav ul li{
+	float: left;
+	list-style: none;
+	margin-top: 25px;
+	margin-right: 25px;
 }
 
 body{
@@ -139,4 +145,20 @@ body{
 }
 #animacion:hover{
 	background-size: 100% 6px;
+}
+
+#aniini{
+	font-family: 'krub', sans-serif;
+	color: white;
+	background-image: linear-gradient(90deg, #ECF0F1, #F7F9F9, #FFFFFF);
+	text-decoration: none;
+	font-weight: bold;
+	cursor: pointer;
+	background-repeat: no-repeat;
+	background-size: 0% 3px;
+	background-position: left bottom;
+	transition: background-size 500ms ease-in-out;
+}
+#aniini:hover{
+	background-size: 100% 3px;
 }
