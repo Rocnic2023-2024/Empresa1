@@ -7,7 +7,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f7f7f7;
-	font-size: 62.5%;
+	
 }
 
 #titulo {
@@ -17,11 +17,7 @@ body {
 	margin-bottom: auto;
 }
 
-table {
-	width: 100%;
-	border-collapse: collapse;
 
-}
 
 .subtitulo {
 	background-color: #B00000;
@@ -47,7 +43,11 @@ td {
 	height: 100px;
 	background: #802f2f;
 }
+div{
+	width: 100%;
+	border-collapse: collapse;
 
+}
 
 
 
