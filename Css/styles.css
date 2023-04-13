@@ -9,34 +9,22 @@ html{
     text-align: center;
     font-size: 62.5%;
 }
-body{
+body{ 
     font-size: 16px;
     font-family: 'Krub', sans-serif;
-}
-.titulo{
-    font-size: 3rem;
-    text-align: center;
-    background-color: #FCFCFC;
-    
-}
-.titulo span{
-    font-size: 2rem;
-}
-.nav_bg{
-    background-color: #B00000;
-   
-}
-.contenedor{
-    width: 120rem;
-    margin: 0 auto;
-}
-.NVC  {
-   
-   display: flex;
-   flex-direction: row;
-   justify-content: space-between;
+    background-color: white;
 }
 
+.container-fluid{
+    height: 25rm;
+    background-color: #B00000;
+    color: #FFFFFF;
+    margin-top: auto;
+}
+
+.col1{
+    background: lightgray;
+}
 .NVC a {
    
     color: #FCFCFC;
@@ -46,9 +34,6 @@ body{
     padding: 1rem;
 }
 
-.NVC a:hover {
-   
- background-color:#b6aeae ;
- color: black;
+h3{
+    color: white;
 }
-
