@@ -42,8 +42,8 @@ body{
 }
 
 .cuadros{
-    background-color: black; 
-    color: black;
+    background-color: white; 
+    color: white;
     text-align: center;
 }
 
@@ -64,6 +64,7 @@ body{
    	padding: 10px 0;   
 	font-family: monospace;
 }
+
 
 .alineacion{
 	text-align: left;

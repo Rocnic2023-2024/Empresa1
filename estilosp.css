@@ -1,6 +1,6 @@
 nav{
 	font-family: 'krub', sans-serif;
-	background: #9B0000;
+	background: white;
 	height: 10%;
 	width: 100%;
 }
@@ -30,7 +30,7 @@ body{
 }
 
 #ogtext{
-	background: #9B0000;
+	background: white;
 	width: 100%;
 	height: 5%;
 	text-align: center;

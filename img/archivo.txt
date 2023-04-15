@@ -1,0 +1,388 @@
+
+  <div  class = "cuadros" style="color: black;">y</div>
+  <div class="container-fluid" style="background-color: white;">
+
+    <div class="row">
+      <div class="col" style="color: black; font-size:30px;">
+        <div  class = "cuadros">y</div>
+        <div  class = "cuadros">y</div>
+        <div  class = "cuadros">y</div>
+       <h3 style="font-size:30px;">NANOTECNOLOGIAS<span>
+        <h2 style="font-size:20px;">
+          nuevas estructuras, materiales y aparatos  a escala atomica
+        </h2>
+      </span></h3> 
+      </div>
+      <div class="col">
+        <img src="img/nano.png" class="img-fluid">
+      </div>
+    </div>
+    <div class="row predeterminado" >
+      Lorem ipsum, 
+      dolor sit amet consectetur adipisicing elit. Tempora ratione deleniti quae vitae quod natus necessitatibus minus. Sapiente voluptates porro rerum ipsam debitis. Sapiente ipsa molestias libero ad exercitationem ea?
+    </div>
+    <div  class = "cuadros">y</div>
+    <div  class = "cuadros">y</div>
+    <div class="row">
+      <div class="col" >
+        <div  class = "cuadros">y</div>
+        <img src="img/cienciasR.png" class="img-fluid">
+      </div>
+      <div class="col" style="color: black; font-size:30px;">
+        <div  class = "cuadros">y</div>
+        <div  class = "cuadros">y</div>
+        <div  class = "cuadros">y</div>
+         <h3 style=" font-size:30px;">ROBOTICA<span>
+          <h2 style="font-size:20px;">
+            máquinas robotizadas destinadas a realizar tareas y funciones de manera automatizada
+          </h2>
+        </span></h3>  
+      </div>
+    </div>
+
+    <div class="row predeterminado" >
+      Lorem ipsum, 
+      dolor sit amet consectetur adipisicing elit. Tempora ratione deleniti quae vitae quod natus necessitatibus minus. Sapiente voluptates porro rerum ipsam debitis. Sapiente ipsa molestias libero ad exercitationem ea?
+    </div>
+    <div  class = "cuadros" style="color: black;">y</div>
+    <div  class = "cuadros" style="color: black;">y</div>
+    <div class="row">
+      <div class="col" style="color: black; font-size:30px;">
+        <div  class = "cuadros" style="color: black;">y</div>
+        <div  class = "cuadros" style="color: black;">y</div>
+        
+        
+      </div>
+      <div class="col">
+        <img src="img/CienciasT.png" class="img-fluid">
+      </div>
+    </div>
+    <div class="row predeterminado" >
+      Lorem ipsum, 
+      dolor sit amet consectetur adipisicing elit. Tempora ratione deleniti quae vitae quod natus necessitatibus minus. Sapiente voluptates porro rerum ipsam debitis. Sapiente ipsa molestias libero ad exercitationem ea?
+    </div>
+    <div  class = "cuadros">y</div>
+    <div  class = "cuadros">y</div>
+    <div class="row">
+      <div class="col" >
+        <div  class = "cuadros">y</div>
+        <img src="img/ia.png" class="img-fluid">
+      </div>
+      <div class="col" style="color: black; font-size:30px;">
+        <div  class = "cuadros">y</div>
+        <div  class = "cuadros">y</div>
+        <h3 style= "font-size:30px;">INTELIGENCIA ARTIFICIAL<span>
+          <h2 style="font-size:20px;">
+            inteligencia humana en estructuras Tecnologicas
+          </h2>
+        </span>  </h3> 
+      </div>
+    </div>
+
+    <div class="row predeterminado" >
+      Lorem ipsum, 
+      dolor sit amet consectetur adipisicing elit. Tempora ratione deleniti quae vitae quod natus necessitatibus minus. Sapiente voluptates porro rerum ipsam debitis. Sapiente ipsa molestias libero ad exercitationem ea?
+    </div>
+  </div>
+  <div  class = "">y</div>
+  <div  class = >y</div>
+  <div class="container-fluid" style="background-color: white; color: black;">
+    <div class="centrado ">
+      PERFILES 
+    </div>
+    <div  class = "cuadros">y</div>
+    <div  class = "cuadros">y</div>
+    <div  class = "cuadros">y</div>
+    <div  class = "cuadros">y</div>
+    <div class="rol" >
+      <div class="col"  >
+        <div class="row"  >
+          <div class="col"  >
+            <h5 style=" font-size: 20px; font-family: 'Mulish' " class="textoformulario1 ">
+             <ul style="list-style: none; text-align: center;">
+              <li style="font-size: 25px;">Administrador de proyectos</li>
+              <div  class = "cuadros">y</div>
+              <li> Es responsable de diversas tareas administrativas<br> relacionadas con el proyecto.</li>
+              <div  class = "cuadros">y</div>
+              <li style="font-size: 25px;">Arquitecto de software</li>
+              <div  class = "cuadros">y</div>
+              <li> Diseñan y desarrollan sistemas y aplicaciones de software.<br> Pueden crear software a medida para clientes o productos orientados a consumidores,
+                <br>como juegos o aplicaciones..</li>
+              <div  class = "cuadros">y</div>
+              <li style="font-size: 25px;">Ingeniero de software </li>
+              <div  class = "cuadros">y</div>
+              <li>Profesional que se encarga de la creación de software de calidad, <br>aplicando conocimiento científico y estadístico.</li>
+              <div  class = "cuadros">y</div>
+              <li style="font-size: 25px;">Ingeniero en full stack</li>
+              <div  class = "cuadros">y</div>
+              <li>Especialista en el desarrollo de sitios web que integra<br> el diseño de la experiencia del cliente en una página</li>
+              <div  class = "cuadros">y</div>
+              <li style="font-size: 25px;">Especialista en marketing digital</li>
+              <div  class = "cuadros">y</div>
+              <li> especialista que analiza y gestiona información, utilizando herramientas tecnológicas,<br>
+                 con el fin de aportar al rendimiento de las campañas de Marketing Digital<br>
+                  para la elaboración de reportes que ayudan en la toma de decisiones.</li>
+              <div  class = "cuadros">y</div>
+             </ul>
+            </h5>
+          </div>    
+          <div class="col">
+            <img src="img/personal.png" class="img-fluid" alt="...">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div  class = "cuadros">y</div>
+  <div  class = "cuadros">y</div>
+
+
+
+
+  <div class="under-banner-wrapper py-5 mb-8">
+            <div class="section container-fluid container-wrapper" style="background-color: darkgray;">
+                <section class="row region region-under-banner-info">
+                    <div id="block-prnewsblock" class="col-12 col-lg block block-tsmc-dcom-custom block-pr-news-block">
+                        <div class="content">
+                                <div class="news-item-wrapper">
+                                    <div class="news-item">
+                                        <div class="title">
+                                            <a class="press-site text-white"
+                                                href="https://pr.tsmc.com/english/latest-news">
+                                                <font style="vertical-align: inherit;">
+                                                    <font style="vertical-align: inherit;">ÚLTIMAS NOTICIAS</font>
+                                                </font>
+                                            </a>
+                                            <i class="fas fa-chevron-right text-tsmcred"></i>
+                                        </div>
+                                        <div class="linkList">
+                                            <a href="http://pr.tsmc.com/english/news/3010">
+                                                <font style="vertical-align: inherit;">
+                                                    <font style="vertical-align: inherit;">Informe de ingresos de marzo
+                                                        de 2023 de TSMC</font>
+                                                </font><span class="date">
+                                                    <font style="vertical-align: inherit;">
+                                                        <font style="vertical-align: inherit;">(2023/04/10)</font>
+                                                    </font>
+                                                </span>
+                                            </a><a href="http://pr.tsmc.com/english/news/3007">
+                                                <font style="vertical-align: inherit;">
+                                                    <font style="vertical-align: inherit;">Informe de ingresos de
+                                                        febrero de 2023 de TSMC</font>
+                                                </font><span class="date">
+                                                    <font style="vertical-align: inherit;">
+                                                        <font style="vertical-align: inherit;">(2023/03/10)</font>
+                                                    </font>
+                                                </span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                    <div id="block-recentevents"
+                        class="col-12 col-lg block-block-content-front-page-block block block-block-content block-block-content1f4e74e2-9c92-453d-a15f-130268af1184">
+                        <div class="content">
+                            <div class="title">
+                                <a class="text-white" href="https://pr.tsmc.com/english/events">
+                                    <font style="vertical-align: inherit;">
+                                        <font style="vertical-align: inherit;">
+                                            EVENTOS RECIENTES
+                                        </font>
+                                    </font>
+                                </a>
+                                <i class="fas fa-chevron-right text-tsmcred"></i>
+                            </div>
+                            <div
+                                class="field field--name-field-link-item field--type-entity-reference-revisions field--label-hidden field__items">
+                                <div class="field__item">
+                                    <div class="paragraph paragraph--type--block-link paragraph--view-mode--default">
+                                        <a href="https://investor.tsmc.com/english/quarterly-results/2023/q1">
+                                            <font style="vertical-align: inherit;">
+                                                <font style="vertical-align: inherit;">
+                                                    TSMC 1Q'23 Conferencia de ganancias y conferencia telefónica
+                                                </font>
+                                            </font><span class="date">
+                                                <font style="vertical-align: inherit;">
+                                                    <font style="vertical-align: inherit;">(2023/04/20)</font>
+                                                </font>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="field__item">
+                                    <div class="paragraph paragraph--type--block-link paragraph--view-mode--default">
+                                        <a href="https://www.brilliantattsmc.com/index.html">
+                                            <font style="vertical-align: inherit;">
+                                                <font style="vertical-align: inherit;">
+                                                    Estamos contratando en los EE. UU.
+                                                </font>
+                                            </font>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="field__item">
+                                    <div class="paragraph paragraph--type--block-link paragraph--view-mode--default">
+                                        <a
+                                            href="https://tsmc.taleo.net/careersection/tsmc_exti/jobdetail.ftl?job=220000AI&amp;lang=en">
+                                            <font style="vertical-align: inherit;">
+                                                <font style="vertical-align: inherit;">
+                                                    Reclutamiento de campus 2023
+                                                </font>
+                                            </font>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="field__item">
+                                    <div class="paragraph paragraph--type--block-link paragraph--view-mode--default">
+                                        <a
+                                            href="https://tsmc.taleo.net/careersection/tsmc_exti/jobdetail.ftl?job=2200009R&amp;lang=en">
+                                            <font style="vertical-align: inherit;">
+                                                <font style="vertical-align: inherit;">
+                                                    Programa de pasantías de ADN 2023
+                                                </font>
+                                            </font>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="field__item">
+                                    <div class="paragraph paragraph--type--block-link paragraph--view-mode--default">
+                                        <a href="/english/careers/designCenter_Japan.htm">
+                                            <font style="vertical-align: inherit;">
+                                                <font style="vertical-align: inherit;">
+                                                    Empleos de Ingeniero/ Gerente de Diseño en Japón
+                                                </font>
+                                            </font>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="field__item">
+                                    <div class="paragraph paragraph--type--block-link paragraph--view-mode--default">
+                                        <a href="/static/english/careers/designCenter_Canada.htm">
+                                            <font style="vertical-align: inherit;">
+                                                <font style="vertical-align: inherit;">
+                                                    Empleos de Ingeniero de diseño en Canadá
+                                                </font>
+                                            </font>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="block-blog"
+                        class="col-12 col-lg block-block-content-front-page-block block block-block-content block-block-content339087ac-72be-48fc-aecb-2d43f7d6f856">
+                        <div class="content">
+                            <div class="title">
+                                <a class="text-white">
+                                    <font style="vertical-align: inherit;">
+                                        <font style="vertical-align: inherit;">
+                                            BLOG
+                                        </font>
+                                    </font>
+                                </a>
+                                <i class="fas fa-chevron-right text-tsmcred"></i>
+                            </div>
+                            <div
+                                class="field field--name-field-link-item field--type-entity-reference-revisions field--label-hidden field__items">
+                                <div class="field__item">
+                                    <div class="paragraph paragraph--type--block-link paragraph--view-mode--default">
+                                        <a href="/english/news-events/blog-article-20221108">
+                                            <font style="vertical-align: inherit;">
+                                                <font style="vertical-align: inherit;">
+                                                    TSMC presenta la última incorporación a OIP: The 3DFabric Alliance
+                                                </font>
+                                            </font><span class="date">
+                                                <font style="vertical-align: inherit;">
+                                                    <font style="vertical-align: inherit;">(2022/11/08)</font>
+                                                </font>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="field__item">
+                                    <div class="paragraph paragraph--type--block-link paragraph--view-mode--default">
+                                        <a href="/english/news-events/blog-article-20221014">
+                                            <font style="vertical-align: inherit;">
+                                                <font style="vertical-align: inherit;">
+                                                    Zona de innovación en el simposio de tecnología de TSMC: los
+                                                    clientes emergentes exhiben innovaciones de vanguardia
+                                                </font>
+                                            </font><span class="date">
+                                                <font style="vertical-align: inherit;">
+                                                    <font style="vertical-align: inherit;">(2022/10/14)</font>
+                                                </font>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="field__item">
+                                    <div class="paragraph paragraph--type--block-link paragraph--view-mode--default">
+                                        <a href="/english/news-events/blog-article-20220616">
+                                            <font style="vertical-align: inherit;">
+                                                <font style="vertical-align: inherit;">
+                                                    TSMC FINFLEX™: máximo rendimiento, eficiencia energética, densidad y
+                                                    flexibilidad
+                                                </font>
+                                            </font><span class="date">
+                                                <font style="vertical-align: inherit;">
+                                                    <font style="vertical-align: inherit;">(2022/06/16)</font>
+                                                </font>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="field__item">
+                                    <div class="paragraph paragraph--type--block-link paragraph--view-mode--default">
+                                        <a href="/english/news-events/blog-article-20220615">
+                                            <font style="vertical-align: inherit;">
+                                                <font style="vertical-align: inherit;">
+                                                    ¿Qué es DTCO?: Introducción a la optimización conjunta de diseño y
+                                                    tecnología
+                                                </font>
+                                            </font><span class="date">
+                                                <font style="vertical-align: inherit;">
+                                                    <font style="vertical-align: inherit;">(2022/06/15)</font>
+                                                </font>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="field__item">
+                                    <div class="paragraph paragraph--type--block-link paragraph--view-mode--default">
+                                        <a href="/english/news-events/blog-article-20220418">
+                                            <font style="vertical-align: inherit;">
+                                                <font style="vertical-align: inherit;">
+                                                    TSMC: permitir que las empresas emergentes liberen la innovación en
+                                                    nuevos semiconductores
+                                                </font>
+                                            </font><span class="date">
+                                                <font style="vertical-align: inherit;">
+                                                    <font style="vertical-align: inherit;">(2022/04/18)</font>
+                                                </font>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="field__item">
+                                    <div class="paragraph paragraph--type--block-link paragraph--view-mode--default">
+                                        <a href="/english/news-events/blog-article-20211216">
+                                            <font style="vertical-align: inherit;">
+                                                <font style="vertical-align: inherit;">
+                                                    El futuro es ahora
+                                                </font>
+                                            </font><span class="date">
+                                                <font style="vertical-align: inherit;">
+                                                    <font style="vertical-align: inherit;">(2021/12/16)</font>
+                                                </font>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
