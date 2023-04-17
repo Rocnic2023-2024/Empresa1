@@ -58,3 +58,13 @@
     font-family: 'Comfortaa', cursive;
  font-size: 1.2rem;
 }
+
+.card-img-zoom {
+    transition: transform .2s;
+    height: 200px;
+    width: 200px;
+}
+.card-img-zoom:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
