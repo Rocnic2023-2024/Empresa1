@@ -1,0 +1,60 @@
+.body {
+    background-color: #eef2f5;
+    color: #333333;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Krub', sans-serif;
+    font-family: 'Mulish', sans-serif;
+}
+.header {
+    background-color: #ca6200;
+    color: #ffffff;
+    padding: 30px;
+    text-align: center;
+}
+.header h1, .header p {
+    margin: 0;
+}
+.contacto {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+    padding: 30px;
+}
+.experiencia {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+    padding: 30px;
+}
+.habilidades {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+    padding: 30px;
+}
+.formacion {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+    padding: 30px;
+}
+.header a {
+    color: #ffffff;
+    
+}
+
+.titulo {
+
+    font-size: 1.7rem;
+    font-family: 'Comfortaa', cursive;
+}
+
+.TRD {
+
+    font-family: 'Comfortaa', cursive;
+ font-size: 1.2rem;
+}
